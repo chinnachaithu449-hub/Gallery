@@ -23,6 +23,7 @@ Validate the HTML and CSS code.
 Publish the website in the given URL.
 
 # PROGRAM :
+~~~
 <div class="gallery-container">
     <div class="gallery-item">
         <img src="gallery1.avif" alt="Image 1">
@@ -92,6 +93,7 @@ Publish the website in the given URL.
         document.body.style.overflow = 'auto';
     });
 </script>
+~~~
 # OUTPUT:
 <img width="829" height="441" alt="image" src="https://github.com/user-attachments/assets/bd838059-913a-4e4c-9239-2e2ed056e128" />
 
